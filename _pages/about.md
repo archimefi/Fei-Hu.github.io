@@ -18,12 +18,13 @@ redirect_from:
 - **2025-07** — Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**.
 - **2025-03** — Joined Johns Hopkins University as a Postdoctoral Fellow.
 - **2025-01** — Passed my Ph.D. defenses, and congrats on Dr. Hu! 
-- **2024-05** — Received the Ph.D. Achievement Award (University of Rochester).  
+- **2024-05** — Received the Ph.D. Achievement Award (University of Rochester).
+- **2023-10** — Presented my work-**[Multifunctional Separator for Li-Ion Batteries Enabling Acid Scavenging and Long Cyclability](https://ecs.confex.com/ecs/244/meetingapp.cgi/Paper/176962)** in Gothenburg, Sweden! A long trip but made many battery and electrochemistry friends in Europe! 
 - **2023-03** — Received the Elon Huntington Hooker Dissertation Fellowship (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Elon-Huntington.png)
 - **2023-03** — Received the Kwang-Yu and Lee-Chien Wang Graduate Fellowship (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Wang.png)
-- **2023-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** in Vancouver! Met many old friends and enjoyed the cozy life there!
+- **2023-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-03** — Received a travel grant from 241st ECS Meeting and looking forward to the trip to Vancouver in Canada.
   ![Award photo](/Fei-Hu.github.io/images/news/Wang.png)
 <!-- 你可以把最新消息放最上面 -->
