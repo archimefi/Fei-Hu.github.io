@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Chemical Engineering — University of Rochester | Jan 2025
+* M.S., Chemical Engineering — University of Rochester | May 2020
+* B.Eng., Energy Chemical Engineering (Double Major: Business Administration) — South China University of Technology | Jun 2018
 
 Work experience
 ======
