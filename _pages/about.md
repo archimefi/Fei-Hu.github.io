@@ -15,14 +15,14 @@ redirect_from:
 
 ## News
 
-- **2025-07** — Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**.
+- **2025-07** — Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/) ($60k)**.
 - **2025-03** — Joined Johns Hopkins University as a Postdoctoral Fellow.
-- **2025-01** — Passed my Ph.D. defenses, and congrats on Dr. Hu! 
-- **2024-05** — Received the Ph.D. Achievement Award (University of Rochester).
+- **2025-01** — Passed my Ph.D. defenses, and congrats on **Dr. Hu**! 
+- **2024-05** — Received the **Ph.D. Achievement Award** (University of Rochester).
 - **2023-10** — Presented my work-**[Multifunctional Separator for Li-Ion Batteries Enabling Acid Scavenging and Long Cyclability](https://ecs.confex.com/ecs/244/meetingapp.cgi/Paper/176962)** at 244th ECS Meeting in Gothenburg, Sweden! A long trip but made many battery and electrochemistry friends in Europe! 
-- **2023-03** — Received the Elon Huntington Hooker Dissertation Fellowship (University of Rochester).
+- **2023-03** — Received the **Elon Huntington Hooker Dissertation Fellowship ($24.7k)** (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Elon-Huntington.png)
-- **2023-03** — Received the Kwang-Yu and Lee-Chien Wang Graduate Fellowship (University of Rochester).
+- **2023-03** — Received the **Kwang-Yu and Lee-Chien Wang Graduate Fellowship ($30k)** (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Wang.png)
 - **2023-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** at 241st ECS Meeting in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-10** — Presented my work-**High-Capacity Cathodes for All-Solid-State Thin-Film Batteries** at NY-BEST coference in Rochester, NY! Had a insightful discussion with Prof. Stanley Whittingham (2019 Nobel Prize in Chemistry)
