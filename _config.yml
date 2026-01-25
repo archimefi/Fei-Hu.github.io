@@ -23,7 +23,7 @@ repository               : "https://archimefi.github.io/Fei-Hu.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Single.jpg"
   name             : "Fei Hu, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Materials scientist"
