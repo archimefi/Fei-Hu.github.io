@@ -10,7 +10,7 @@ redirect_from:
 
 - 🎓 Postdoctoral Fellow @ Johns Hopkins University  
 - 🔬 Materials scientist: thin films (PVD & CVD), functional coatings & Li batteries  
-- ⚡ Focus: Li metal / anode-free, operando diagnostics, coatings by PVD and CVD, aotumation robots
+- ⚡ Focus: Coatings by PVD and CVD, Li battery, operando diagnostics, aotumation robots
 - 📍 Baltimore, MD  
 
 ## News
