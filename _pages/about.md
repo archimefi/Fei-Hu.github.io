@@ -13,6 +13,16 @@ redirect_from:
 - ⚡ Focus: Li metal / anode-free, operando diagnostics, coatings by PVD and CVD, aotumation robots
 - 📍 Baltimore, MD  
 
+## News
+
+- **2025-07** — Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**.
+- **2025-03** — Joined Johns Hopkins University as a Postdoctoral Fellow.
+- **2025-01** — Passed my Ph.D. defenses, and congrats on Dr. Hu! 
+- **2024-05** — Received the Ph.D. Achievement Award (University of Rochester).  
+- **2023-03** — Received the Elon Huntington Hooker Dissertation Fellowship (University of Rochester).
+  ![Award photo](/Fei-Hu.github.io/images/news/Elon-Huntington.png)
+<!-- 你可以把最新消息放最上面 -->
+
 ## Education
 
 - **Johns Hopkins University** — Postdoctoral Fellow, Materials Science and Engineering (Mar 2025–Present)  
