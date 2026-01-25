@@ -6,10 +6,10 @@ permalink: /teaching/2025-01-mentoring-ur-students/
 venue: "University of Rochester"
 location: "Rochester, NY"
 date: 2025-01-01
-excerpt: "Mentored: Suganes h Raghunathan (Apr 2024–Jan 2025); Adel Fadhul (Jun–Aug 2023, 2nd place poster @ AIChE 2023); Rebecca Choi (Jun–Oct 2022, NY BEST 2022)."
+excerpt: "Mentored: Suganes Raghunathan (Apr 2024–Jan 2025); Adel Fadhul (Jun–Aug 2023, 2nd place poster @ AIChE 2023); Rebecca Choi (Jun–Oct 2022, NY BEST 2022)."
 ---
 
-### Suganes h Raghunathan (Materials Science, M.S. student) — *Apr 2024 – Jan 2025*
+### Suganes Raghunathan (Materials Science, M.S. student) — *Apr 2024 – Jan 2025*
 - Mentored research planning and execution; supported poster preparation and presentation practice.
 
 ### Adel Fadhul (Chemical Engineering, Class of 2025) — *Jun 2023 – Aug 2023*
