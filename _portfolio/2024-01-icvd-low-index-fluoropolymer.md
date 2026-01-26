@@ -4,18 +4,10 @@ collection: portfolio
 permalink: /portfolio/icvd-low-index-fluoropolymer/
 date: 2024-01-01
 project_area: pvd_cvd
+excerpt: "iCVD copolymerization to suppress crystallization while preserving low refractive index (n ≈ 1.36); enabled flexible multilayer interference coatings with ~1% reflectance."
 
-# teaser 不要以 /images/ 开头（你模板会自动 prepend /images/）
 header:
   teaser: projects/icvd-low-index/iCVD1.jpeg
-
-gallery:
-  - url: /images/projects/icvd-low-index/iCVD1.jpeg
-    caption: "Figure / schematic 1"
-  - url: /images/projects/icvd-low-index/iCVD2.jpeg
-    caption: "Figure / result 2"
-
-video_embed: "https://www.youtube.com/embed/VIDEO_ID"
 ---
 
 ### Overview
