@@ -5,7 +5,7 @@ permalink: /portfolio/icvd-low-index-fluoropolymer/
 date: 2024-01-01
 project_area: pvd_cvd
 
-# 关键：teaser 不要写 /images/ 开头，否则你现有模板会再 prepend 一次 /images/
+# teaser 不要以 /images/ 开头（你模板会自动 prepend /images/）
 header:
   teaser: projects/icvd-low-index/iCVD1.jpeg
 
@@ -18,7 +18,6 @@ gallery:
 video_embed: "https://www.youtube.com/embed/VIDEO_ID"
 ---
 
-
 ### Overview
 Developed an iCVD-synthesized copolymer that suppresses crystallization of a hydrophobic fluoropolymer while maintaining a low refractive index. The resulting copolymer is optically transparent with **n ≈ 1.36**, improved thermal stability, and sub-nanometer roughness.
 
@@ -29,6 +28,15 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 
 ## Media
 
-<img src="{{ '/images/projects/icvd-low-index/iCVD1.jpeg' | relative_url }}" alt="iCVD copolymerization project" style="max-width: 800px; width: 100%; height: auto; border-radius: 10px; margin: 10px 0;">
+<img src="{{ '/images/projects/icvd-low-index/iCVD1.jpeg' | relative_url }}" alt="iCVD copolymerization project" style="max-width: 980px; width: 100%; height: auto; border-radius: 10px; margin: 12px 0;">
 
-<img src="{{ '/images/projects/icvd-low-index/iCVD2.jpeg' | relative_url }}" alt="Second image" style="max-width: 800px; width: 100%; height: auto; border-radius: 10px; margin: 10px 0;">
+<img src="{{ '/images/projects/icvd-low-index/iCVD2.jpeg' | relative_url }}" alt="Second image" style="max-width: 980px; width: 100%; height: auto; border-radius: 10px; margin: 12px 0;">
+
+<div style="position:relative;padding-top:56.25%; margin: 12px 0;">
+  <iframe
+    src="https://www.youtube.com/embed/VIDEO_ID"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;border-radius:10px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
