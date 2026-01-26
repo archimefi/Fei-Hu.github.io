@@ -7,7 +7,6 @@ excerpt: "iCVD copolymerization to suppress crystallization while preserving low
 header:
 header:
   teaser: /images/projects/icvd-low-index/iCVD1.jpeg
-  teaser: {{ "/images/projects/icvd-low-index/iCVD1.jpeg" | relative_url }}
 
 ---
 
