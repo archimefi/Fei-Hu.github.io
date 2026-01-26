@@ -13,27 +13,27 @@ redirect_from:
 - ⚡ Focus: Coatings by PVD and CVD, Li battery, operando diagnostics, aotumation robots
 - 📍 Baltimore, MD  
 
-## News
+## 🔥News
 
-- **2025-07** — Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/) ($60k)**.
+- **2025-07** — 🎉Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/) ($60k)**.
 - **2025-03** — Joined Johns Hopkins University as a Postdoctoral Fellow.
-- **2025-01** — Passed my Ph.D. defenses, and congrats on **Dr. Hu**! 
-- **2024-05** — Received the **Ph.D. Achievement Award** (University of Rochester).
+- **2025-01** — 🎉Passed my Ph.D. defenses, and congrats on **Dr. Hu**! 
+- **2024-05** — 🎉Received the **Ph.D. Achievement Award** (University of Rochester).
 - **2023-10** — Presented my work-**[Multifunctional Separator for Li-Ion Batteries Enabling Acid Scavenging and Long Cyclability](https://ecs.confex.com/ecs/244/meetingapp.cgi/Paper/176962)** at 244th ECS Meeting in Gothenburg, Sweden! A long trip but made many battery and electrochemistry friends in Europe! 
-- **2023-03** — Received the **Elon Huntington Hooker Dissertation Fellowship ($24.7k)** (University of Rochester).
+- **2023-03** — 🎉Received the **Elon Huntington Hooker Dissertation Fellowship ($24.7k)** (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Elon-Huntington.png)
-- **2023-03** — Received the **Kwang-Yu and Lee-Chien Wang Graduate Fellowship ($30k)** (University of Rochester).
+- **2023-03** — 🎉Received the **Kwang-Yu and Lee-Chien Wang Graduate Fellowship ($30k)** (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Wang.png)
 - **2023-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** at 241st ECS Meeting in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-10** — Presented my work-**High-Capacity Cathodes for All-Solid-State Thin-Film Batteries** at NY-BEST coference in Rochester, NY! Had a insightful discussion with Prof. Stanley Whittingham (2019 Nobel Prize in Chemistry)
   ![photo](/Fei-Hu.github.io/images/news/Nobel.jpg)
-- **2022-03** — Received a travel grant from 241st ECS Meeting and looking forward to the trip to Vancouver in Canada.
-- **2020-12** — Presented my work-**“Mirror-Like” Electrodeposition of Lithium Metal under a Low-Resistance Artificial Solid Electrolyte Interphase Layer,** at 2020 MRS Fall meeting and received the **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**.
+- **2022-03** — 🎉Received a travel grant from 241st ECS Meeting and looking forward to the trip to Vancouver in Canada.
+- **2020-12** — Presented my work-**“Mirror-Like” Electrodeposition of Lithium Metal under a Low-Resistance Artificial Solid Electrolyte Interphase Layer,** at 2020 MRS Fall meeting and 🎉received the **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**.
   ![Award photo](/Fei-Hu.github.io/images/news/MRS.png)
 
 <!-- 你可以把最新消息放最上面 -->
 
-## Education/Training
+## 📖Education/Training
 
 - **Johns Hopkins University** — Postdoctoral Fellow, Materials Science and Engineering (Mar 2025–Present)  
   Advisor: Prof. Yuting Luo
@@ -49,7 +49,7 @@ redirect_from:
   Advisor: Prof. Xueqing Qiu  
   Thesis: Preparation of SnO₂/C composites as Li-ion battery anodes and investigation of their lithiation performance
 
-## Fellowships & Awards
+## 🎖Honors & Awards
 
 - **[Ralph O’Connor Sustainable Energy Institute (ROSEI) Postdoctoral Scholars](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**, Johns Hopkins University (Jul 2025–Jul 2026)
   • $60,000 stipend support
