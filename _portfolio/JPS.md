@@ -25,7 +25,7 @@ Developed an Ru-based oxide thin film coating by RF sputtering. The resulting co
 
 <div class="media-block">
   <img src="{{ '/images/projects/jps/figure1.tif' | relative_url }}" alt="iCVD copolymerization project" />
-  <img src="{{ '/images/projects/jps/figure5.ti' | relative_url }}" alt="Second image" />
+  <img src="{{ '/images/projects/jps/figure5.tif' | relative_url }}" alt="Second image" />
 
   <div class="video-wrap">
     <iframe
