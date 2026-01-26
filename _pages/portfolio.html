@@ -9,18 +9,22 @@ author_profile: true
 
 <h2>Thin films by CVD and PVD</h2>
 <hr />
-{% for post in site.portfolio reversed %}
-  {% if post.project_area == "thin_films" %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
+
+<div class="grid__wrapper">
+  {% for post in site.portfolio reversed %}
+    {% if post.project_area == "thin_films" %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
 
 <h2>Batteries</h2>
 <hr />
-{% for post in site.portfolio reversed %}
-  {% if post.project_area == "batteries" %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
 
-
+<div class="grid__wrapper">
+  {% for post in site.portfolio reversed %}
+    {% if post.project_area == "batteries" %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
