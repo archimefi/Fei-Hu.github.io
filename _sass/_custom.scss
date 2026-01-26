@@ -7,9 +7,9 @@
   display: block;
 }
 
-/* Make site content wider (but still centered) */
+/* Make site content wider (centered) */
 .masthead__inner-wrap,
-.initial-content,
-.page__footer {
-  max-width: 1600px;  /* 你想更宽就改大，比如 1800px */
+.page__inner-wrap,
+.archive {
+  max-width: 1600px; /* 想更宽就 1800px */
 }
