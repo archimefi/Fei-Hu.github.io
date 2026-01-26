@@ -7,7 +7,7 @@ project_area: pvd_cvd
 excerpt: "iCVD copolymerization to suppress crystallization while preserving low refractive index (n ≈ 1.36); enabled flexible multilayer interference coatings with ~1% reflectance."
 
 header:
-  teaser: projects/icvd-low-index/iCVD1.jpeg
+  teaser: /images/projects/icvd-low-index/iCVD1.jpeg
 ---
 
 ### Overview
