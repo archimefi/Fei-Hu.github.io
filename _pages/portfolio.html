@@ -7,24 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Thin films by CVD and PVD</h2>
+<h2>PVD/CVD</h2>
 <hr />
+{% for post in site.portfolio reversed %}
+  {% if post.project_area == "pvd_cvd" %}
+    {% include archive-single-project.html %}
+  {% endif %}
+{% endfor %}
 
-<div class="grid__wrapper">
-  {% for post in site.portfolio reversed %}
-    {% if post.project_area == "thin_films" %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
-
-<h2>Batteries</h2>
+<h2>High-throughput robot</h2>
 <hr />
+{% for post in site.portfolio reversed %}
+  {% if post.project_area == "robot" %}
+    {% include archive-single-project.html %}
+  {% endif %}
+{% endfor %}
 
-<div class="grid__wrapper">
-  {% for post in site.portfolio reversed %}
-    {% if post.project_area == "batteries" %}
-      {% include archive-single.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
+<h2>Electrochemistry</h2>
+<hr />
+{% for post in site.portfolio reversed %}
+  {% if post.project_area == "electrochemistry" %}
+    {% include archive-single-project.html %}
+  {% endif %}
+{% endfor %}
+
