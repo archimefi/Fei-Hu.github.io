@@ -5,34 +5,66 @@
   max-width: 1600px;   /* 你想更宽可 1800px */
 }
 
-/* 横向项目卡：更宽 + 左媒体更大 */
+/* 主内容区更宽 */
+.page,
+.page__inner-wrap,
+.archive,
+.archive__wrapper,
+.masthead__inner-wrap,
+.initial-content,
+.page__footer {
+  max-width: 1600px;
+}
+
+/* 横向项目卡（只要 archive-single 输出 project-card 就会生效） */
 .project-card{
   display: flex;
   gap: 28px;
   align-items: flex-start;
   margin: 26px 0;
-  padding: 10px 0 26px 0;
+  padding: 14px 0 26px 0;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
 .project-card__media{
-  flex: 0 0 520px;     /* 这里决定左侧媒体宽度 */
+  flex: 0 0 520px;
   max-width: 520px;
 }
 
 .project-card__media img{
   width: 100%;
-  height: auto;
-  display: block;
+  height: 320px;        /* 让列表页更“有分量” */
+  object-fit: cover;    /* 填满裁切 */
   border-radius: 12px;
-  object-fit: cover;
+  display: block;
 }
 
-/* 手机端自动上下排列 */
+.project-card__body{
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.project-card__title{
+  margin: 0 0 8px 0;
+  line-height: 1.2;
+}
+
+.project-card__meta{
+  margin: 0 0 10px 0;
+  opacity: 0.8;
+}
+
+.project-card__excerpt p{
+  margin: 0;
+}
+
+/* 手机端：上下排列 */
 @media (max-width: 900px){
   .project-card{ flex-direction: column; }
   .project-card__media{ flex-basis: auto; max-width: 100%; }
+  .project-card__media img{ height: auto; }
 }
+
 
 /* 多图展示区：两列/三列自动排版 */
 .media-grid{
