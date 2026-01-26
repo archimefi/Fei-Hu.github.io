@@ -114,3 +114,22 @@
   display: block;
   clear: both;
 }
+
+/* 让项目详情页的图片/视频同宽 + 间距变小 */
+.media-block{
+  max-width: 980px;      /* 你想多宽就改这里，比如 1100px */
+  margin: 0 auto;        /* 居中 */
+}
+
+.media-block img{
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 10px 0;        /* ✅ 图片之间间距 */
+}
+
+/* ✅ 视频和上面内容距离变小 */
+.media-block .video-wrap{
+  margin: 10px 0 14px 0; /* ✅ 原来很大的空白就从这儿压掉 */
+}
