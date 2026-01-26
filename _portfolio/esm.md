@@ -25,7 +25,7 @@ Cu coated with lithiophobic-lithiophilic dual coatings were incorporated into an
 
 <div class="media-block">
   <img src="{{ '/images/projects/esm/figure1.jpeg' | relative_url }}" alt="iCVD copolymerization project" />
-  <img src="{{ '/images/projects/esm/figure2.jpeg' | relative_url }}" alt="Second image" />
+  <img src="{{ '/images/projects/esm/figure2.jpg' | relative_url }}" alt="Second image" />
 
 
 </div>
