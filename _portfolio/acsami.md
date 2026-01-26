@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/acsami/
 date: 2020-08-07
 project_area: electrochemistry
-excerpt: "Thin inorganic coating by RF sputtering promotes "mirror-like" Li electroplating on Si wafer."
+excerpt: 'Thin inorganic coating by RF sputtering promotes "mirror-like" Li electroplating on Si wafer.'
 
 header:
   teaser: /images/projects/acsami/figure1.jpeg
