@@ -13,12 +13,12 @@ header:
 ---
 
 ### Overview
-Developed an Ru-based oxide thin film coating by RF sputtering. The resulting coating is mirror-like without any features on Si wafer after optimizing deposition temperature and distance. 
+Customized OPENTRONS OT-2 automating liquid-handling platform to enable 24/7 Si wafer and substrate grasping for electroplating or thin-film coating measurement.
 
-### Key contributions
-- First to show mirror-like PVD coatings on Si wafers and flexible polymer substrates.
-- Excellent flexibility enables deposition onto paper sheets.
-- Demonstrated a **3×** capacity increase over commercial electrodes.
+### Key contributions & Outcomes
+- Use Pthyon code to build a workflow for the entire liquid and substrate handling process.
+- This could be used for 24/7 operantion without human intervention.
+- Could be applied for Si wafer measurement or electroplating.
 
 
 ## Media
