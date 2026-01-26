@@ -70,3 +70,10 @@
   height: 100%;
   border-radius: 12px;
 }
+
+/* Fix: clear floats after each grid wrapper so next section headings don't overlap */
+.grid__wrapper::after {
+  content: "";
+  display: block;
+  clear: both;
+}
