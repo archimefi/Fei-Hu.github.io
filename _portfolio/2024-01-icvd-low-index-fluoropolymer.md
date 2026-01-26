@@ -16,5 +16,6 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 - Suppressed crystallization/melting and improved thermal stability.
 - Integrated into a multilayer optical interference coating design; demonstrated broadband antireflection with **~1% reflectance** in the visible range.
 
-### Media
-<img src="/images/projects/icvd-low-index/teaser.png" alt="iCVD copolymerization project" style="max-width: 100%; height: auto; border-radius: 8px;" />
+## Media
+![iCVD copolymerization project]({{ site.baseurl }}/images/projects/icvd-low-index/iCVD1.jpeg)
+
