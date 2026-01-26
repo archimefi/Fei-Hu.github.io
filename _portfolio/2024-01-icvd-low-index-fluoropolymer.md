@@ -32,11 +32,12 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 
 <img src="{{ '/images/projects/icvd-low-index/iCVD2.jpeg' | relative_url }}" alt="Second image" style="max-width: 980px; width: 100%; height: auto; border-radius: 10px; margin: 12px 0;">
 
-<div style="position:relative;padding-top:56.25%; margin: 12px 0;">
+<div style="position:relative; padding-top:56.25%; margin: 12px 0;">
   <iframe
-    src="https://www.youtube.com/embed/VIDEO_ID"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;border-radius:10px;"
+    src="https://www.youtube.com/embed/lKoEiN7AsgY"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:0; border-radius:10px;"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
+
