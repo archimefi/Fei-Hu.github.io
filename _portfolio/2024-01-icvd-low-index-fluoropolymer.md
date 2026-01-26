@@ -6,6 +6,7 @@ date: 2024-01-01
 excerpt: "iCVD copolymerization to suppress crystallization while preserving low refractive index (n ≈ 1.36); enabled flexible multilayer interference coatings with ~1% reflectance across the visible range."
 header:
   teaser: /images/projects/icvd-low-index/iCVD1.jpeg
+  overlay_image: /images/projects/icvd-low-index/iCVD1.jpeg
 ---
 
 ### Overview
@@ -20,4 +21,5 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 ![iCVD copolymerization project]({{ site.baseurl }}/images/projects/icvd-low-index/iCVD1.jpeg)
 ![Second image]({{ site.baseurl }}/images/projects/icvd-low-index/iCVD2.jpeg)
 
+{% include figure image_path="/images/projects/icvd-low-index/iCVD1.jpeg" alt="iCVD copolymerization project" caption="iCVD copolymerization project" %}
 
