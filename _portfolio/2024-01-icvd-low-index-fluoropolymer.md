@@ -1,13 +1,13 @@
 ---
----
 title: "Low-index transparent fluoropolymer with suppressed crystallization by iCVD copolymerization"
 collection: portfolio
 permalink: /portfolio/icvd-low-index-fluoropolymer/
 date: 2024-01-01
 project_area: pvd_cvd
 
+# 关键：teaser 不要写 /images/ 开头，否则你现有模板会再 prepend 一次 /images/
 header:
-  teaser: /images/projects/icvd-low-index/iCVD1.jpeg
+  teaser: projects/icvd-low-index/iCVD1.jpeg
 
 gallery:
   - url: /images/projects/icvd-low-index/iCVD1.jpeg
