@@ -6,3 +6,10 @@
   object-fit: contain; /* 保持完整不裁切；想裁切填满用 cover */
   display: block;
 }
+
+/* Make site content wider (but still centered) */
+.masthead__inner-wrap,
+.initial-content,
+.page__footer {
+  max-width: 1600px;  /* 你想更宽就改大，比如 1800px */
+}
