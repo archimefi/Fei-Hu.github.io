@@ -17,13 +17,24 @@
 {%- endcomment -%}
 {% if include.type == "grid" and post.collection == "portfolio" %}
 
+{%- comment -%}
+  NEW: allow per-project teaser fit/position control from front matter:
+  header:
+    teaser_fit: cover | contain (default: contain)
+    teaser_pos: "center" | "center top" | etc (default: center)
+{%- endcomment -%}
+{% assign fit = post.header.teaser_fit | default: "contain" %}
+{% assign pos = post.header.teaser_pos | default: "center" %}
+
 <div class="project-card">
   {% if teaser %}
   <div class="project-card__media">
     <a href="{{ post.url | relative_url }}" rel="permalink">
       <img
         src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | relative_url }}{% endif %}"
-        alt="{{ title }} teaser">
+        alt="{{ title }} teaser"
+        style="object-fit: {{ fit }}; object-position: {{ pos }};"
+      >
     </a>
   </div>
   {% endif %}
