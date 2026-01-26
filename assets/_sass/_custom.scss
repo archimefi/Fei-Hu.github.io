@@ -1,1 +1,8 @@
 
+/* Make portfolio/project teasers smaller */
+.archive__item-teaser img {
+  width: 100%;
+  max-height: 260px;   /* 想更小就改成 180/220 */
+  object-fit: contain; /* 保持完整不裁切；想裁切填满用 cover */
+  display: block;
+}
