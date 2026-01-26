@@ -2,7 +2,7 @@
 title: "Low-index transparent fluoropolymer with suppressed crystallization by iCVD copolymerization"
 collection: portfolio
 permalink: /portfolio/icvd-low-index-fluoropolymer/
-date: 2024-01-01
+date: 2025-01-29
 project_area: pvd_cvd
 excerpt: "iCVD copolymerization to suppress crystallization while preserving low refractive index (n ≈ 1.36); enabled flexible multilayer interference coatings with ~1% reflectance."
 
@@ -17,6 +17,9 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 - iCVD copolymerization via gas-phase transport of two monomers with distinct properties (not miscible in liquid/solution routes).
 - Suppressed crystallization/melting and improved thermal stability.
 - Integrated into a multilayer optical interference coating design; demonstrated broadband antireflection with **~1% reflectance** in the visible range.
+
+### Citation### Citation
+[link](https://pubs.acs.org/doi/full/10.1021/acs.macromol.4c02242)
 
 ## Media
 
