@@ -7,16 +7,16 @@ project_area: pvd_cvd
 excerpt: "Fabricated a sputtering target and optimized PVD deposition parameters to enable ultra-smooth coating."
 
 header:
-  teaser: /images/projects/jps/figure1.tif
+  teaser: /images/projects/jps/figure1.jpg
 ---
 
 ### Overview
-Developed an Ru-based oxide thin film coating by RF sputtering. The resulting coating is mirror-like without any feactures on Si wafer after optimizing deposition temperature and distance. 
+Developed an Ru-based oxide thin film coating by RF sputtering. The resulting coating is mirror-like without any features on Si wafer after optimizing deposition temperature and distance. 
 
 ### Key contributions
-- First to show mirror-like PVD coating on Si wafer/flexble polymer substrate.
-- Excellent flexibility enables the feasibility of depositing it onto a paper sheet.
-- Demonstrated a **3-times** capacity increase than the current commercial electrodes.
+- First to show mirror-like PVD coatings on Si wafers and flexible polymer substrates.
+- Excellent flexibility enables deposition onto paper sheets.
+- Demonstrated a **3×** capacity increase over commercial electrodes.
 
 ### Citation
 [link](https://doi.org/10.1016/j.jpowsour.2022.232206)
@@ -24,8 +24,8 @@ Developed an Ru-based oxide thin film coating by RF sputtering. The resulting co
 ## Media
 
 <div class="media-block">
-  <img src="{{ '/images/projects/jps/figure1.tif' | relative_url }}" alt="iCVD copolymerization project" />
-  <img src="{{ '/images/projects/jps/figure5.tif' | relative_url }}" alt="Second image" />
+  <img src="{{ '/images/projects/jps/figure1.jpg' | relative_url }}" alt="iCVD copolymerization project" />
+  <img src="{{ '/images/projects/jps/figure5.jpg' | relative_url }}" alt="Second image" />
 
   <div class="video-wrap">
     <iframe
