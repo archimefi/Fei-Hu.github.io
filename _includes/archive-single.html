@@ -13,14 +13,14 @@
 {% endif %}
 
 {%- comment -%}
-  Custom: horizontal project card ONLY for portfolio grid listing
+  Custom: horizontal project card ONLY for portfolio listing
 {%- endcomment -%}
 {% if include.type == "grid" and post.collection == "portfolio" %}
 
 <div class="project-card">
   {% if teaser %}
   <div class="project-card__media">
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+    <a href="{{ post.url | relative_url }}" rel="permalink">
       <img
         src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | relative_url }}{% endif %}"
         alt="{{ title }} teaser">
@@ -30,10 +30,41 @@
 
   <div class="project-card__body">
     <h2 class="project-card__title">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
     </h2>
 
     {% if post.date %}
       <p class="project-card__meta">
         <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-        <time datetime="{{ post.date | date_to_xmlsche
+        <strong>Published:</strong>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%B %d, %Y" }}
+        </time>
+      </p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <div class="project-card__excerpt">
+        {{ post.excerpt | markdownify }}
+      </div>
+    {% endif %}
+  </div>
+</div>
+
+{% else %}
+
+{%- comment -%}
+  Default Minimal Mistakes archive item (fallback)
+{%- endcomment -%}
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+    </h2>
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+  </article>
+</div>
+
+{% endif %}
