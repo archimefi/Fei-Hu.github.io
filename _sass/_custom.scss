@@ -77,3 +77,33 @@
   display: block;
   clear: both;
 }
+
+/* ====== make archive/projects page wider reliably ====== */
+.page,
+.page__inner-wrap,
+.archive,
+.archive__wrapper,
+.initial-content {
+  max-width: 1600px;
+}
+
+/* ====== make project cards (grid) bigger ====== */
+.layout--archive .grid__wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.layout--archive .grid__item{
+  flex: 1 1 520px;
+  max-width: 760px;
+}
+
+.archive__item-teaser img{
+  width: 100%;
+  max-height: 320px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
