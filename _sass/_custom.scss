@@ -33,3 +33,40 @@
   .project-card{ flex-direction: column; }
   .project-card__media{ flex-basis: auto; max-width: 100%; }
 }
+
+/* 多图展示区：两列/三列自动排版 */
+.media-grid{
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0,1fr));
+  gap: 16px;
+  margin: 12px 0 22px 0;
+}
+.media-grid img{
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+.media-grid figcaption{
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-top: 6px;
+}
+
+@media (max-width: 900px){
+  .media-grid{ grid-template-columns: 1fr; }
+}
+
+/* 视频容器：16:9 自适应 */
+.video-wrap{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin: 18px 0 28px 0;
+}
+.video-wrap iframe{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
