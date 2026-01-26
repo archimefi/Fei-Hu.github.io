@@ -24,9 +24,9 @@ redirect_from:
   ![Award photo](/Fei-Hu.github.io/images/news/Elon-Huntington.png)
 - **2023-03** — 🎉Received the **Kwang-Yu and Lee-Chien Wang Graduate Fellowship ($30k)** (University of Rochester).
   ![Award photo](/Fei-Hu.github.io/images/news/Wang.png)
-- **2023-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** at 241st ECS Meeting in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-10** — Presented my work-**High-Capacity Cathodes for All-Solid-State Thin-Film Batteries** at NY-BEST coference in Rochester, NY! Had a insightful discussion with Prof. Stanley Whittingham (2019 Nobel Prize in Chemistry)
   ![photo](/Fei-Hu.github.io/images/news/Nobel.jpg)
+- **2022-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** at 241st ECS Meeting in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-03** — 🎉Received a travel grant from 241st ECS Meeting and looking forward to the trip to Vancouver in Canada.
 - **2020-12** — Presented my work-**“Mirror-Like” Electrodeposition of Lithium Metal under a Low-Resistance Artificial Solid Electrolyte Interphase Layer,** at 2020 MRS Fall meeting and 🎉received the **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**.
   ![Award photo](/Fei-Hu.github.io/images/news/MRS.png)
