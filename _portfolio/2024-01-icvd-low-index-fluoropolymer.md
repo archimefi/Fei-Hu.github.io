@@ -4,15 +4,8 @@ collection: portfolio
 permalink: /portfolio/icvd-low-index-fluoropolymer/
 date: 2024-01-01
 excerpt: "iCVD copolymerization to suppress crystallization while preserving low refractive index (n ≈ 1.36); enabled flexible multilayer interference coatings with ~1% reflectance across the visible range."
-{% if post.header.teaser %}
-  <p>
-    <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }} teaser" style="max-width: 280px; height: auto; border-radius: 6px;">
-  </p>
-{% endif %}
-
 header:
   teaser: /images/projects/icvd-low-index/iCVD1.jpeg
-
 ---
 
 ### Overview
@@ -24,8 +17,7 @@ Developed an iCVD-synthesized copolymer that suppresses crystallization of a hyd
 - Integrated into a multilayer optical interference coating design; demonstrated broadband antireflection with **~1% reflectance** in the visible range.
 
 ## Media
-![iCVD copolymerization project]({{ site.baseurl }}/images/projects/icvd-low-index/iCVD1.jpeg)
-![Second image]({{ site.baseurl }}/images/projects/icvd-low-index/iCVD2.jpeg)
 
+<img src="{{ '/images/projects/icvd-low-index/iCVD1.jpeg' | relative_url }}" alt="iCVD copolymerization project" style="max-width: 800px; width: 100%; height: auto; border-radius: 10px; margin: 10px 0;">
 
-
+<img src="{{ '/images/projects/icvd-low-index/iCVD2.jpeg' | relative_url }}" alt="Second image" style="max-width: 800px; width: 100%; height: auto; border-radius: 10px; margin: 10px 0;">
