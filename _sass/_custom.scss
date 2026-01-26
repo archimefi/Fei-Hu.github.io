@@ -31,10 +31,13 @@
   max-width: 520px;
 }
 
+/* ✅ 关键修改：contain + 白底，不裁切左右 */
 .project-card__media img{
   width: 100%;
-  height: 320px;        /* 让列表页更“有分量” */
-  object-fit: cover;    /* 填满裁切 */
+  height: 320px;           /* 仍然保持“有分量”，但不裁切 */
+  object-fit: contain;      /* ✅ 不裁切 */
+  object-position: center;  /* 居中显示 */
+  background: #fff;         /* 空白区域用白底（也可改 #f7f7f7） */
   border-radius: 12px;
   display: block;
 }
@@ -62,7 +65,10 @@
 @media (max-width: 900px){
   .project-card{ flex-direction: column; }
   .project-card__media{ flex-basis: auto; max-width: 100%; }
-  .project-card__media img{ height: auto; }
+  .project-card__media img{
+    height: auto;          /* 手机上用自适应高度 */
+    object-fit: contain;   /* 继续不裁切 */
+  }
 }
 
 
@@ -126,16 +132,19 @@
   gap: 24px;
 }
 
+/* ⚠️ 你现在用的是 project-card 横向布局，下面这个 grid__item 如果没用可以留着不动 */
 .layout--archive .grid__item{
   flex: 1 1 520px;
   max-width: 760px;
 }
 
+/* ✅ 同步修复：如果还有地方走 archive__item-teaser，也不要裁切 */
 .archive__item-teaser img{
   width: 100%;
   max-height: 320px;
-  object-fit: cover;
+  object-fit: contain;      /* ✅ 不裁切 */
+  object-position: center;
+  background: #fff;
   border-radius: 12px;
   display: block;
 }
-
