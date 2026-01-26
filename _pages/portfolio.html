@@ -7,27 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>PVD/CVD</h2>
-<hr />
+<h2>PVD/CVD</h2><hr />
+<div class="grid__wrapper">
 {% for post in site.portfolio reversed %}
   {% if post.project_area == "pvd_cvd" %}
-    {% include archive-single-project.html %}
+    {% include archive-single.html type="grid" %}
   {% endif %}
 {% endfor %}
+</div>
 
-<h2>High-throughput robot</h2>
-<hr />
+<h2>High-throughput robot</h2><hr />
+<div class="grid__wrapper">
 {% for post in site.portfolio reversed %}
   {% if post.project_area == "robot" %}
-    {% include archive-single-project.html %}
+    {% include archive-single.html type="grid" %}
   {% endif %}
 {% endfor %}
+</div>
 
-<h2>Electrochemistry</h2>
-<hr />
+<h2>Electrochemistry</h2><hr />
+<div class="grid__wrapper">
 {% for post in site.portfolio reversed %}
   {% if post.project_area == "electrochemistry" %}
-    {% include archive-single-project.html %}
+    {% include archive-single.html type="grid" %}
   {% endif %}
 {% endfor %}
-
+</div>
