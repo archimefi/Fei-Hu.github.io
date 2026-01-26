@@ -1,74 +1,54 @@
-/* 让主内容区更宽（Projects/Pages 都会更宽） */
+/* ========== 主内容更宽 ========== */
 .masthead__inner-wrap,
 .initial-content,
-.page__footer {
-  max-width: 1600px;   /* 你想更宽可 1800px */
-}
-
-/* 主内容区更宽 */
+.page__footer,
 .page,
 .page__inner-wrap,
 .archive,
-.archive__wrapper,
-.masthead__inner-wrap,
-.initial-content,
-.page__footer {
+.archive__wrapper {
   max-width: 1600px;
 }
 
-/* 横向项目卡（只要 archive-single 输出 project-card 就会生效） */
+/* ========== 横向项目卡：留白更少 ========== */
 .project-card{
   display: flex;
-  gap: 28px;
+  gap: 18px;                 /* 原来 28px -> 更紧凑 */
   align-items: flex-start;
-  margin: 26px 0;
-  padding: 14px 0 26px 0;
+  margin: 16px 0;            /* 原来 26px -> 更少 */
+  padding: 10px 0 16px 0;    /* 原来 14/26 -> 更少 */
   border-bottom: 1px solid rgba(0,0,0,0.08);
 }
 
-/* 卡片左侧媒体：固定宽度 */
+/* 左侧媒体宽度（你觉得还大可改 460px） */
 .project-card__media{
   flex: 0 0 520px;
   max-width: 520px;
 }
 
-/* ✅ 统一卡片高度：用 aspect-ratio 锁定高度；contain 不裁切 */
+/* ✅ 统一卡片图片高度 + 不裁切 */
 .project-card__media img{
   width: 100%;
-  aspect-ratio: 2.2 / 1;   /* ✅ 你这种超宽示意图更合适；想更宽可用 3/1 */
-  height: auto;
-  object-fit: contain;     /* ✅ 不裁切 */
-  object-position: center;
-  background: #fff;        /* 留白用白底更干净 */
-  border-radius: 12px;
-  display: block;
-}
-
-/* 兼容 archive 默认 teaser */
-.archive__item-teaser img{
-  width: 100%;
-  aspect-ratio: 2.2 / 1;   /* ✅ 保持一致 */
-  height: auto;
-  object-fit: contain;
+  aspect-ratio: 2.6 / 1;     /* 比 2.2/1 更“横”，留白会更少；还想少就 3/1 */
+  object-fit: contain;       /* 不裁切 */
   object-position: center;
   background: #fff;
   border-radius: 12px;
   display: block;
 }
 
-
+/* 右侧文字 */
 .project-card__body{
   flex: 1 1 auto;
   min-width: 0;
 }
 
 .project-card__title{
-  margin: 0 0 8px 0;
+  margin: 0 0 6px 0;         /* 更紧凑 */
   line-height: 1.2;
 }
 
 .project-card__meta{
-  margin: 0 0 10px 0;
+  margin: 0 0 8px 0;
   opacity: 0.8;
 }
 
@@ -78,43 +58,46 @@
 
 /* 手机端：上下排列 */
 @media (max-width: 900px){
-  .project-card{ flex-direction: column; }
+  .project-card{ flex-direction: column; gap: 12px; }
   .project-card__media{ flex-basis: auto; max-width: 100%; }
   .project-card__media img{
-    height: auto;          /* 手机上用自适应高度 */
-    object-fit: contain;   /* 继续不裁切 */
+    aspect-ratio: 16 / 9;    /* 手机上更好看 */
   }
 }
 
+/* ========== 兼容 archive 默认 teaser（只保留一份，不要重复！） ========== */
+.archive__item-teaser img{
+  width: 100%;
+  aspect-ratio: 2.6 / 1;     /* 跟 project-card 保持一致 */
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+  border-radius: 12px;
+  display: block;
+}
 
-/* 多图展示区：两列/三列自动排版 */
+/* ========== 多图展示区：留白少一点 ========== */
 .media-grid{
   display: grid;
   grid-template-columns: repeat(2, minmax(0,1fr));
-  gap: 16px;
-  margin: 12px 0 22px 0;
+  gap: 12px;                 /* 原来 16px -> 更紧凑 */
+  margin: 10px 0 16px 0;     /* 原来 12/22 -> 更少 */
 }
 .media-grid img{
   width: 100%;
   border-radius: 12px;
   display: block;
 }
-.media-grid figcaption{
-  font-size: 0.9rem;
-  opacity: 0.8;
-  margin-top: 6px;
-}
-
 @media (max-width: 900px){
   .media-grid{ grid-template-columns: 1fr; }
 }
 
-/* 视频容器：16:9 自适应 */
+/* ========== 视频容器：留白少一点 ========== */
 .video-wrap{
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
-  margin: 18px 0 28px 0;
+  margin: 12px 0 16px 0;     /* 原来 18/28 -> 更少 */
 }
 .video-wrap iframe{
   position: absolute;
@@ -122,44 +105,12 @@
   width: 100%;
   height: 100%;
   border-radius: 12px;
+  border: 0;
 }
 
-/* Fix: clear floats after each grid wrapper so next section headings don't overlap */
+/* Fix headings overlap */
 .grid__wrapper::after {
   content: "";
   display: block;
   clear: both;
-}
-
-/* ====== make archive/projects page wider reliably ====== */
-.page,
-.page__inner-wrap,
-.archive,
-.archive__wrapper,
-.initial-content {
-  max-width: 1600px;
-}
-
-/* ====== make project cards (grid) bigger ====== */
-.layout--archive .grid__wrapper{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
-}
-
-/* ⚠️ 你现在用的是 project-card 横向布局，下面这个 grid__item 如果没用可以留着不动 */
-.layout--archive .grid__item{
-  flex: 1 1 520px;
-  max-width: 760px;
-}
-
-/* ✅ 同步修复：如果还有地方走 archive__item-teaser，也不要裁切 */
-.archive__item-teaser img{
-  width: 100%;
-  max-height: 320px;
-  object-fit: contain;      /* ✅ 不裁切 */
-  object-position: center;
-  background: #fff;
-  border-radius: 12px;
-  display: block;
 }
