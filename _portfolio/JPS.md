@@ -7,7 +7,7 @@ project_area: pvd_cvd
 excerpt: "Fabricated a sputtering target and optimized PVD deposition parameters to enable ultra-smooth coating."
 
 header:
-  teaser: /images/projects/jps/figure1.jpg
+  teaser: /images/projects/jps/figure3.jpeg
   teaser_fit: cover
   teaser_pos: center
 ---
