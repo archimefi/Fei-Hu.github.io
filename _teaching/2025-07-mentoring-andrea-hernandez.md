@@ -1,5 +1,5 @@
 ---
-title: "Student Mentoring — Andrea Hernandez"
+title: "Student Mentoring — Johns Hopkins University"
 collection: teaching
 type: "Mentoring"
 permalink: /teaching/2025-07-mentoring-andrea-hernandez/
@@ -10,6 +10,6 @@ start: 2025-05-01
 end: 2025-07-31
 ---
 
-**Andrea Hernandez** (summer research undergraduate, California Polytechnic State University)
+Andrea Hernandez (summer research undergraduate, summer 2025, California Polytechnic State University)
 
 - Awarded **Outstanding Poster Design** at **PROPEL Research Symposium 2025**
