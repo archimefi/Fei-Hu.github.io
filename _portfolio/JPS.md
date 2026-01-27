@@ -8,8 +8,7 @@ excerpt: "Fabricated a sputtering target and optimized PVD deposition parameters
 
 header:
   teaser: /images/projects/jps/figure3.jpeg
-  teaser_fit: cover
-  teaser_pos: center
+
 ---
 
 ### Overview
