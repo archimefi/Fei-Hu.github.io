@@ -51,21 +51,22 @@ redirect_from:
 ## 🎖Honors & Awards
 
 - **[Ralph O’Connor Sustainable Energy Institute (ROSEI) Postdoctoral Scholars](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**, Johns Hopkins University (Jul 2025–Jul 2026)
-  • $60,000 stipend support
+  - $60,000 stipend support
 
-- **Ph.D. Achievement Award**, University of Rochester (May 17, 2024)  
-  • $300
+- **Ph.D. Achievement Award**, University of Rochester (May 17, 2024)
+  - $300
 
-- **Elon Huntington Hooker Dissertation Fellowship**, University of Rochester (Jul 2023–Jun 2024)  
-  • $24,700 stipend support
+- **Elon Huntington Hooker Dissertation Fellowship**, University of Rochester (Jul 2023–Jun 2024)
+  - $24,700 stipend support
 
-- **Kwang-Yu and Lee-Chien Wang Graduate Fellowship**, University of Rochester (Feb 2023–Dec 2023)  
-  • $12,000 research funds  
-  • $2,000 academic conference travel grant  
-  • $16,000 academic stipend
-  
-- **Earl W. Costich Graduate Fellowship**, University of Rochester (Sep 2021–May 2022)  
-  • $1800
-  
-- **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**, University of Rochester (Nov 2020)  
-  • $250
+- **Kwang-Yu and Lee-Chien Wang Graduate Fellowship**, University of Rochester (Feb 2023–Dec 2023)
+  - $12,000 research funds
+  - $2,000 academic conference travel grant
+  - $16,000 academic stipend
+
+- **Earl W. Costich Graduate Fellowship**, University of Rochester (Sep 2021–May 2022)
+  - $1,800
+
+- **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**, University of Rochester (Nov 2020)
+  - $250
+
