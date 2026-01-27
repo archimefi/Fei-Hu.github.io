@@ -51,7 +51,6 @@ redirect_from:
 ## 🎖Honors & Awards
 
 - **[Ralph O’Connor Sustainable Energy Institute (ROSEI) Postdoctoral Scholars](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/)**, Johns Hopkins University (Jul 2025–Jul 2026)
-
   • $60,000 stipend support
 
 - **Ph.D. Achievement Award**, University of Rochester (May 17, 2024)  
