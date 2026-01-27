@@ -27,9 +27,11 @@ redirect_from:
   ![photo](/Fei-Hu.github.io/images/news/Nobel.jpg)
 - **2022-05** — Presented my work-**[High-Capacity Cathodes for All-Solid-State Thin-Film Batteries](https://iopscience.iop.org/article/10.1149/MA2022-014547mtgabs)** at 241st ECS Meeting in Vancouver, Canada! Met many old friends and enjoyed the cozy life there!
 - **2022-03** — 🎉Received a travel grant from 241st ECS Meeting and looking forward to the trip to Vancouver in Canada.
+- **2021-05** — Presented my work-**[“Mirror-like” Electrodeposition of Lithium Metal Under a Low-Resistance Artificial Solid Electrolyte Interphase Layer](https://iopscience.iop.org/article/10.1149/MA2021-016367mtgabs)** at 239th ECS Meeting in Chicago, IL! Though it was an virtual meeting, many exicting work there.
 - **2020-12** — Presented my work-**“Mirror-Like” Electrodeposition of Lithium Metal under a Low-Resistance Artificial Solid Electrolyte Interphase Layer,** at 2020 MRS Fall meeting and 🎉received the **Best Presentation Award (Energy Symposium) @ 2020 Virtual MRS Fall Meeting & Exhibit**.
   ![Award photo](/Fei-Hu.github.io/images/news/MRS.png)
-
+- **2020-11** — Presented my work-**[Uniform Electrodeposition of Lithium Metal Enabled By Thin Lithium Phosphorous Oxynitride (LiPON) Films](https://aiche.confex.com/aiche/2020/meetingapp.cgi/Paper/609107)** at 2020 Virtual AIChE Annual Meeting, San Francisco, CA!
+- **2020-05** — My two works-**[Uniform Electrodeposition of Lithium Metal Under an Artificial Solid Electrolyte Interphase Layer](https://iopscience.iop.org/article/10.1149/MA2020-014551mtgabs/meta)** & **[(Invited) Lithium Batteries Enabled By Thin Film Composite Solid Electrolyte Separators](https://iopscience.iop.org/article/10.1149/MA2021-016367mtgabs)** at 237th ECS Meeting (IMCS 2020). Unfortunatelly, both oral presentations were cancelled due to COVID.
 <!-- 你可以把最新消息放最上面 -->
 
 ## 📖Education/Training
