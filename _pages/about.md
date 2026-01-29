@@ -14,6 +14,8 @@ redirect_from:
 
 ## 🔥News
 
+- **2026-01** — Received the **Six Sigma Yellow Belt** certificate, look forward to apply the knowledges and skills learned to improve business process and quality improvement!
+  ![Award photo](/Fei-Hu.github.io/images/news/yellowbelt.png)
 - **2025-07** — 🎉Selected as a **[ROSEI Postdoctoral Scholar](https://energyinstitute.jhu.edu/rosei-announces-selections-for-inaugural-rosei-postdoctoral-scholars-program/) ($60k)**.
 - **2025-03** — Joined Johns Hopkins University as a Postdoctoral Fellow.
 - **2025-01** — 🎉Passed my Ph.D. defenses, and congrats on **Dr. Hu**! 
