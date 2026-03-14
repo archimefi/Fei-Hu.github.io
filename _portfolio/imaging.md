@@ -24,6 +24,16 @@ My imaging experiences on SEM, nano/micro CT, Ellipsometer and profilometer
   <img src="{{ '/images/projects/imaging/sem222.png' | relative_url }}" alt="imaging" />
 </div>
 
+### X-ray imaging (Micro-CT and Synchrotron nano-CT)
+- Lab-scale micro-CT on cylinders.
+<div class="media-block">
+  <img src="{{ '/images/projects/imaging/microct.jpg' | relative_url }}" alt="imaging" />
+</div>
+
+- Synchrotron nano-CT on two Cu substrates.
+<div class="media-block">
+  <img src="{{ '/images/projects/imaging/nanoct1.png' | relative_url }}" alt="imaging" />
+</div>
 
 
 
