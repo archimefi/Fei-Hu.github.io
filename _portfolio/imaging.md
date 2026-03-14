@@ -3,7 +3,7 @@ title: "Electron-beam, x-ray and optical imaging"
 collection: portfolio
 permalink: /portfolio/imaging/
 date: 2026-03-14
-project_area: imaging
+project_area: Imaging
 excerpt: "My hands-on experience on Electron-beam, x-ray and optical imaging"
 
 header:
