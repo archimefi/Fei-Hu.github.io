@@ -35,6 +35,16 @@ My imaging experiences on SEM, nano/micro CT, Ellipsometer and profilometer
   <img src="{{ '/images/projects/imaging/nanoct1.png' | relative_url }}" alt="imaging" />
 </div>
 
+### Optical imaging (Ellipsometer and Profilometer)
+- Surface mapping of polymer coating by CVD on Si wafer, measured by ellipsometer.
+<div class="media-block">
+  <img src="{{ '/images/projects/imaging/ellipsometer.jpg' | relative_url }}" alt="imaging" />
+</div>
+
+- Surface mapping of polymer coating by CVD on Si wafer with and without a strain test, measured by profilometer.
+<div class="media-block">
+  <img src="{{ '/images/projects/imaging/profilometer.jpg' | relative_url }}" alt="imaging" />
+</div>
 
 
 
