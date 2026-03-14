@@ -7,7 +7,7 @@ project_area: imaging
 excerpt: "My hands-on experience on Electron-beam, x-ray and optical imaging"
 
 header:
-  teaser: /images/projects/imaging/nanoct.tif
+  teaser: /images/projects/imaging/nanoct1.png
 ---
 
 ### Overview
