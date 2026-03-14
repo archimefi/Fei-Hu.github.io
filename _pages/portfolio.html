@@ -37,13 +37,14 @@ entries_layout: grid
 {% endfor %}
 </div>
 
-<h2>Imaging</h2><hr />
+<h2>Imaging</h2>
+<hr />
 <div class="grid__wrapper">
-{% for post in site.portfolio reversed %}
-  {% if post.project_area == "Imaging" %}
-    {% include archive-single.html type="grid" %}
-  {% endif %}
-{% endfor %}
+  {% for post in site.portfolio reversed %}
+    {% if post.project_area == "imaging" %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}
+  {% endfor %}
 </div>
 
 <p>Total portfolio items: {{ site.portfolio | size }}</p>
